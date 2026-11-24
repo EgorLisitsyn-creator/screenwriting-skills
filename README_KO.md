@@ -1,6 +1,6 @@
 # screenwriting-skills
 
-[English](README.md) · [中文版](README_ZH.md) · [日本語](README_JA.md) · [Français](README_FR.md)
+[English](README.md) · [中文版](README_ZH.md) · [日本語](README_JA.md) · [Français](README_FR.md) · [Русский](README_RU.md)
 
 시나리오·드라마 극본·극작법을 위한 27개의 에이전트 스킬([Claude Code](https://docs.anthropic.com/en/docs/claude-code/skills) 및 [OpenAI Codex](https://developers.openai.com/codex/build-skills) 지원). 47권의 작법서와 23권의 출간 대본·악보·희곡(중국·미국·영국·일본·한국)에서 추출했습니다.
 
@@ -77,7 +77,7 @@ codex plugin marketplace add jtydhr88/screenwriting-skills
 
 이와 맞바꾸어 잃는 것은 **감사 가능성**입니다. 중국어를 읽지 못하면 지시 파일 자체는 읽을 수 없고, 그에 대한 에이전트의 보고만 읽을 수 있습니다. 이것은 실재하는 비용이며, 삭제된 영어판이 유일하게 정말로 사들였던 것이었습니다. 그러나 영구적인 5중 유지보수 부담에 값하지는 않았습니다.
 
-**README는 별개**이며 번역되어 있습니다. 짧고, 잘 바뀌지 않으며, 처음 온 사람이 가장 먼저 마주치는 것이기 때문입니다. 일본어·한국어·프랑스어 README는 설치·구성·이 방침까지로 의도적으로 멈춰 있습니다. 스킬 상세 대조표와 출처 서지는 [English](README.md)와 [中文版](README_ZH.md)에 있으며 네 번 복제하지 않습니다. 이유는 위와 같습니다.
+**README는 별개**이며 번역되어 있습니다. 짧고, 잘 바뀌지 않으며, 처음 온 사람이 가장 먼저 마주치는 것이기 때문입니다. 일본어·한국어·프랑스어·러시아어 README는 설치·구성·이 방침까지로 의도적으로 멈춰 있습니다. 스킬 상세 대조표와 출처 서지는 [English](README.md)와 [中文版](README_ZH.md)에 있으며 네 번 복제하지 않습니다. 이유는 위와 같습니다.
 
 ## 무대 장르에 대하여
 
