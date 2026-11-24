@@ -1,6 +1,6 @@
 # screenwriting-skills
 
-[English](README.md) · [中文版](README_ZH.md) · [日本語](README_JA.md) · [한국어](README_KO.md)
+[English](README.md) · [中文版](README_ZH.md) · [日本語](README_JA.md) · [한국어](README_KO.md) · [Русский](README_RU.md)
 
 27 compétences d'agent (« skills ») pour le scénario, l'écriture télévisuelle et la dramaturgie, destinées à [Claude Code](https://docs.anthropic.com/en/docs/claude-code/skills) et [OpenAI Codex](https://developers.openai.com/codex/build-skills). Distillées de 47 ouvrages de méthode et de 23 volumes de scénarios, partitions et pièces publiés (chinois, américains, britanniques, japonais et coréens).
 
@@ -77,7 +77,7 @@ La ligne est donc tracée à la source, et l'exécution fait le reste :
 
 Ce que l'on abandonne en échange, c'est l'**auditabilité** : sans lire le chinois, vous ne pouvez pas lire le fichier d'instructions lui-même, seulement le compte rendu qu'en fait l'agent. C'est un coût réel, et c'est la seule chose que l'édition anglaise supprimée achetait véritablement. Elle ne valait pas une charge de maintenance quintuple et permanente.
 
-**Les README relèvent d'un autre régime** et sont traduits : ils sont courts, stables, et c'est ce qu'un nouveau venu rencontre en premier. Les README japonais, coréen et français s'arrêtent délibérément à l'installation, à la structure et à cette politique ; les tableaux détaillés des skills et la bibliographie restent dans les versions [anglaise](README.md) et [chinoise](README_ZH.md) , exactement pour la raison ci-dessus.
+**Les README relèvent d'un autre régime** et sont traduits : ils sont courts, stables, et c'est ce qu'un nouveau venu rencontre en premier. Les README japonais, coréen, français et russe s'arrêtent délibérément à l'installation, à la structure et à cette politique ; les tableaux détaillés des skills et la bibliographie restent dans les versions [anglaise](README.md) et [chinoise](README_ZH.md) , exactement pour la raison ci-dessus.
 
 ## Les genres de scène
 

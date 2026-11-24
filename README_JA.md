@@ -1,6 +1,6 @@
 # screenwriting-skills
 
-[English](README.md) · [中文版](README_ZH.md) · [한국어](README_KO.md) · [Français](README_FR.md)
+[English](README.md) · [中文版](README_ZH.md) · [한국어](README_KO.md) · [Français](README_FR.md) · [Русский](README_RU.md)
 
 脚本執筆・テレビドラマ・劇作法のための 27 個のエージェントスキル（[Claude Code](https://docs.anthropic.com/en/docs/claude-code/skills) と [OpenAI Codex](https://developers.openai.com/codex/build-skills) 対応）。47 冊の理論書と 23 巻の出版シナリオ・曲譜・戯曲（中国・アメリカ・イギリス・日本・韓国）から抽出したもの。
 
@@ -77,7 +77,7 @@ codex plugin marketplace add jtydhr88/screenwriting-skills
 
 これと引き換えに失われるのは**監査可能性**です。中国語が読めなければ、指示ファイルそのものは読めず、エージェントによるその報告しか読めません。これは実在するコストであり、削除された英語版が唯一本当に買っていたものでした。しかし恒久的な 5 方向の保守負担に見合うものではありませんでした。
 
-**README は別扱い**で、翻訳されています。短く、変動が少なく、新しく来た人が最初に出会うものだからです。日本語・韓国語・フランス語の README は、インストール・構成・この方針までで意図的に止めています。スキルの詳細対照表と出典書誌は [English](README.md) と [中文版](README_ZH.md) にあり、4 回複製することはしません。理由は上と同じです。
+**README は別扱い**で、翻訳されています。短く、変動が少なく、新しく来た人が最初に出会うものだからです。日本語・韓国語・フランス語・ロシア語の README は、インストール・構成・この方針までで意図的に止めています。スキルの詳細対照表と出典書誌は [English](README.md) と [中文版](README_ZH.md) にあり、4 回複製することはしません。理由は上と同じです。
 
 ## 舞台の諸ジャンルについて
 

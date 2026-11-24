@@ -1,12 +1,12 @@
 # screenwriting-skills
 
-[中文版](README_ZH.md) · [日本語](README_JA.md) · [한국어](README_KO.md) · [Français](README_FR.md)
+[中文版](README_ZH.md) · [日本語](README_JA.md) · [한국어](README_KO.md) · [Français](README_FR.md) · [Русский](README_RU.md)
 
 27 agent skills (for [Claude Code](https://docs.anthropic.com/en/docs/claude-code/skills) and [OpenAI Codex](https://developers.openai.com/codex/build-skills)) for screenwriting, television writing and dramaturgy, distilled from 47 craft books and 23 volumes of published scripts, scores and plays (Chinese, American, British, Japanese and Korean).
 
 The skill files follow the open [agentskills.io](https://agentskills.io) standard and are shared by both agents: install once and it works in both.
 
-**Ask in your own language.** The skill bodies are written in Chinese, because most of the sources are Chinese originals or Chinese translations. That is only where the text lives: ask in English, Japanese, Korean or French and you get the answer in that language. See [Multilingual support](#multilingual-support) for why there is a single source tree.
+**Ask in your own language.** The skill bodies are written in Chinese, because most of the sources are Chinese originals or Chinese translations. That is only where the text lives: ask in English, Japanese, Korean, French or Russian and you get the answer in that language. See [Multilingual support](#multilingual-support) for why there is a single source tree.
 
 ## Install
 
@@ -101,7 +101,7 @@ So the line is drawn at the source, and the runtime does the rest:
 
 What this trades away is auditability: you cannot read the instruction file itself unless you read Chinese, only the agent's account of it. That is a real cost, and it is the one thing the deleted English edition genuinely bought. It was not worth a permanent five-way maintenance burden.
 
-**READMEs are a different matter** and are translated, because they are short, stable, and the thing a newcomer meets first. The Japanese, Korean and French READMEs deliberately stop at install, structure and this policy; the full skill tables and the source bibliography live here and in the Chinese README, for exactly the reason above.
+**READMEs are a different matter** and are translated, because they are short, stable, and the thing a newcomer meets first. The Japanese, Korean, French and Russian READMEs deliberately stop at install, structure and this policy; the full skill tables and the source bibliography live here and in the Chinese README, for exactly the reason above.
 
 ## How the skills are organised
 

@@ -1,12 +1,12 @@
 # screenwriting-skills（编剧技能集）
 
-[English](README.md) · [日本語](README_JA.md) · [한국어](README_KO.md) · [Français](README_FR.md)
+[English](README.md) · [日本語](README_JA.md) · [한국어](README_KO.md) · [Français](README_FR.md) · [Русский](README_RU.md)
 
 把 47 本编剧/剧作理论书籍与 23 卷出版剧本、曲谱（中、美、英、日、韩）提炼成的 27 个 agent skill，面向 [Claude Code Skills](https://docs.anthropic.com/en/docs/claude-code/skills) 与 [OpenAI Codex](https://developers.openai.com/codex/build-skills)，覆盖电影长片、电视剧集、舞台剧。
 
 所有 skill 文件遵循开放的 [agentskills.io](https://agentskills.io) 标准，Claude Code 与 Codex 通用，装一次，两个 Agent 都能用。
 
-**用你自己的语言提问即可。** skill 正文是中文，因为来源多为中文原著或中译本；这不妨碍你用英语、日语、韩语、法语提问，用什么语言问，就用什么语言答。为什么 skill 只有中文一份、不另出译本，见[多语言支持](#多语言支持)。
+**用你自己的语言提问即可。** skill 正文是中文，因为来源多为中文原著或中译本；这不妨碍你用英语、日语、韩语、法语、俄语提问，用什么语言问，就用什么语言答。为什么 skill 只有中文一份、不另出译本，见[多语言支持](#多语言支持)。
 
 ## 安装
 
@@ -101,7 +101,7 @@ cp -r screenwriting-skills/plugins/screenwriting/skills/* .agents/skills/
 
 这样做的短处是**没法直接查看**：除非你读中文，否则看不到指令文件本身，只能看到 agent 的转述。这个代价是实在的，也是那个被撤掉的英文版唯一换来的好处，只是抵不过五种语言长期各维护一份的负担。
 
-**README 另当别论**，照译：篇幅短，少改动，新人第一眼看的就是它。日语、韩语、法语三份 README 有意只写到安装、结构和这条规矩为止；完整的 skill 对照表与来源书目留在本文和英文 README 里，不复制四遍，理由和上面一样。
+**README 另当别论**，照译：篇幅短，少改动，新人第一眼看的就是它。日语、韩语、法语、俄语四份 README 有意只写到安装、结构和这条规矩为止；完整的 skill 对照表与来源书目留在本文和英文 README 里，不复制四遍，理由和上面一样。
 
 ## 四层结构
 
